@@ -49,8 +49,15 @@ Adding integrations with third-party APIs, such as e-commerce platforms, invento
 #### Optimizations
 To further improve Descriptor9’s performance, we plan to optimize AI processing for better handling of complex files and to incorporate additional metadata fields for products. This would allow for even more accurate and detailed product descriptions, elevating Descriptor9’s ability to manage large inventories with a high degree of specificity and usability.
 
-### Online Access 
+### Online Access and application screenshots 
 [Live App](https://descriptoraiapp.z1.web.core.windows.net/)
+
+[Products Page](https://i.ibb.co/KbNJrHw/Screen1.png)
+
+[Add New Product Page](https://i.ibb.co/dBFxDw9/Screen2.png)
+
+[File Uploader modal](https://i.ibb.co/jHZ58t7/Modal-File-Uploader.png)
+
 
 ## Setup and Installation
 
