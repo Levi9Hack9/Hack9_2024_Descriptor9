@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Services/.vs
+/Services/DescriptionGeneratorAPI/.vs
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/appsettings.json
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/appsettings.Development.json
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/obj/
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/bin/
+/Services/DescriptorGeneratorAPI/.vs
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/.vs
+/Services/DescriptorGeneratorAPI/DescriptorGeneratorAPI/Properties
+/.vs
